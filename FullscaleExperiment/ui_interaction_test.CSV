@@ -1,0 +1,104 @@
+ID;Startzeit;Fertigstellungszeit;Name;Zeitpunkt der letzten �nderung;Buildname;Dialogname;Eingabefelder;Buttons;Custom Controls;Allgemeines Fensterverhalten;Labels;Vollst�ndigkeit;Feedbackverhalten;Bedienbarkeit;Robustheit;Visuelle Korrektheit;Festgestellte Probleme2;Gesamteindruck
+4;8.17.26 13:13:08;8.17.26 14:18:01;Stefan Droese;;arivisPro-MigrationExperiment_Lovelace;Custom Features;Erfolgreich;Teilweise Erfolgreich;Fehlgeschlagen;Teilweise Erfolgreich;Teilweise Erfolgreich;Akzeptabel;Gut;Akzeptabel;Akzeptabel;schlecht;"- Fenster kann verschwinden, wenn aPro nach WIN+D wiederhergestellt wird
+  - interessant: Custom Features hat einen eigenen Eintrag in ALT/WIN+TAB-�bersicht
+- abgeschnittener Button ""Close""
+- keine Icons f�r Buttons oberhalb der Feature-�bersicht
+- Toolbar hat nicht funktionierenden Verschiebegriff & Ausklapppfeil
+  - Fenster kann nicht schmaler als Toolbar sein
+- kein visueller Aufklapp-Indikator auf Create-Button
+- geringer Abstand zwischen Features
+- Feature-Button ist nur so gro� wie n�tig - unterschiedlich gro�e Buttons
+- keine Icons f�r Features
+- keine Trennlinie f�r Arten von Features
+- Beobachtung: schlechtes Refresh-Verhalten - Fenster neu �ffnen statt Refresh nach Aktion";weitgehend nutzbar
+5;8.17.26 14:31:19;8.17.26 14:45:09;Stefan Droese;;arivisPro-MigrationExperiment_Lovelace;Drift Correction;Fehlgeschlagen;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;sehr schlecht;Akzeptabel;Akzeptabel;Gut;schlecht;"- keine Inhalte in den Rahmengruppen - Source, Result, Dift Correction Properties
+  - Dialog ist damit funktionslos
+- abgeschnittene Buttons
+- �berz�hlige Pixel am linken Rand der Button-Gruppe ""Reset,OK,Cancel""";nicht nutzbar
+6;8.17.26 14:51:27;8.17.26 15:09:03;Stefan Droese;;arivisPro-MigrationExperiment_Lovelace;Copy or move Objects;Teilweise Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Sehr Gut;Gut;Gut;Gut;Gut;"- abgeschnittene Bedienelemente(Button, DropDown)
+- abgeschnittene Label - Text ober- und unterhalb der Parameter
+  - Text unterhalb der Parameter wird dynamisch gr��er
+- erstaunlicherweise die bisher am wenigsten abgeschnittenen Bedienelemente
+- Einagbefelder waren vorher Spinner-Boxes und sind nun Eingabefelder f�r Zeichenketten
+- hat eigenen Eintrag in ALT/WIN+TAB-Eintrag
+- taucht nicht mit aPro zusammen auf nach WIN+D-Minimieren";weitgehend nutzbar
+7;8.17.26 16:51:57;8.17.26 17:11:44;Stefan Droese;;arivisPro-MigrationExperiment_Lovelace;Batch Analysis;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Gut;Akzeptabel;Gut;Akzeptabel;schlecht;"- abgeschnittene Bedienelemente
+- Anordnung nicht immer wie erwartet ausgerichtet
+- unerwarteter Fehler ""Unable to get regions."" bei vielen Image Sets
+- keine Tastenk�rzel
+- senkrechte Linie am linken Rand am unteren Ende des Fensters";weitgehend nutzbar
+8;8.17.26 17:20:54;8.17.26 17:27:25;Stefan Droese;;arivisPro-MigrationExperiment_Lovelace;Workspace Layout Editor;Erfolgreich;Teilweise Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;schlecht;Akzeptabel;Akzeptabel;Akzeptabel;Akzeptabel;"- scheinbar kein richtig modales Fenster
+- abgeschnittener Button ""Remove""
+- abgeschnittener Text Button ""Restore presets""
+- Unterstriche vor Labels
+- keine Inhalte f�r Viewer & Panels
+- eigener Eintrag in ALT/WIN+TAB-�bersicht
+";weitgehend nutzbar
+9;8.19.26 9:39:38;8.19.26 10:09:47;Stefan Droese;;MigrationExperiment_Turing;Custom Features;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Gut;Gut;Gut;Gut;Akzeptabel;"- abgeschnittener Close-Button
+- nicht einheitliches Einr�cken von Button-Labels
+- Toolbar zeigt Verschiebegriff
+- Toolbar zeigt �berlaufausklapp-Button
+- keine Gruppierung der Features, daf�r aber Anordnung als Liste
+- kein sichtbarer Hinweis auf Afklappverhalten von Create
+- keine Gruppierung der Auswahlm�glichkeiten von Create
+- keine Button-Icons";weitgehend nutzbar
+10;8.19.26 10:10:00;8.19.26 10:18:01;Stefan Droese;;MigrationExperiment_Turing;Drift Correction;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Erfolgreich;Erfolgreich;schlecht;Akzeptabel;Akzeptabel;Akzeptabel;schlecht;"- keinerlei Informationen in den Gruppierungsrahmen
+- 2 von 3 Gruppierungsrahmen sind am unteren Ende offen
+- �berz�hlige senkrechte Pixelspalte links von Reset";stark eingeschr�nkt nutzbar
+11;8.19.26 10:18:09;8.19.26 10:30:24;Stefan Droese;;MigrationExperiment_Turing;Copy or move Objects;Erfolgreich;Teilweise Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;schlecht;Akzeptabel;Akzeptabel;Akzeptabel;schlecht;"- weder OK noch Cancel sichtbar - unbekannt, ob diese �berhaupt existieren
+- abgeschnittene Label der ""einfachen Texte""
+  - Erkl�rungstext und Anzahl- & Parametertext";stark eingeschr�nkt nutzbar
+12;8.19.26 10:41:29;8.19.26 11:35:47;Stefan Droese;;MigrationExperiment_Turing;Batch Analysis;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Gut;Akzeptabel;Akzeptabel;Akzeptabel;Akzeptabel;"- abgeschnittene Bedienelemente(Buttons, Eingabefelder)
+- Zeilenumbruch in Flie�text oberhalb von Analysis output folder kann Leserlichkeit des Texts verschlechtern - Text wird horizontal abgeschnitten
+- R�ckkehr von ""Unable to get Regions"" inklusive Flackern durch mehrere Zeichenvorg�nge
+- �berz�hlige senkrechte Pixelzeile unten links im Fenster - betrifft beide Seiten/Ansichten
+- keine F�rbung der Listeneintr�ge von Analysis operation parameter
+- generische Benennung der Eintr�ge der Liste - OutputFilePath, FilePath";weitgehend nutzbar
+13;8.19.26 11:36:04;8.19.26 11:43:52;Stefan Droese;;MigrationExperiment_Turing;Workspace Layout Editor;Erfolgreich;Teilweise Erfolgreich;Fehlgeschlagen;Teilweise Erfolgreich;Teilweise Erfolgreich;schlecht;Akzeptabel;Akzeptabel;Akzeptabel;schlecht;#NAME?;stark eingeschr�nkt nutzbar
+14;8.21.26 15:23:00;8.21.26 15:37:54;Stefan Droese;;MigrationExperiment_Hopper;Custom Features;Teilweise Erfolgreich;Teilweise Erfolgreich;Fehlgeschlagen;Teilweise Erfolgreich;Erfolgreich;Gut;Akzeptabel;schlecht;schlecht;Akzeptabel;"- Programmabsturz bei Klick auf Import
+- Fenster hat eigenen Eintrag in ALT/WIN+TAB
+- Toolbar hat Griff und �berlaufmen�
+- Create-DropDownButton hat keinen Inhalt
+- unerwartete ""Feature""-Kopfzeile";stark eingeschr�nkt nutzbar
+15;8.21.26 15:38:03;8.21.26 15:43:51;Stefan Droese;;MigrationExperiment_Hopper;Drift Correction;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Sehr Gut;Gut;Gut;Gut;Sehr Gut;#NAME?;weitgehend nutzbar
+16;8.21.26 15:43:59;8.21.26 15:46:34;Stefan Droese;;MigrationExperiment_Hopper;Copy or move Objects;Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Akzeptabel;Gut;Akzeptabel;Akzeptabel;Akzeptabel;"- fehlende Buttons: OK, Cancel
+- abgeschnittene Bedienelemente(Label, Buttons)";stark eingeschr�nkt nutzbar
+17;8.21.26 15:46:42;8.21.26 15:50:18;Stefan Droese;;MigrationExperiment_Hopper;Batch Analysis;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Sehr Gut;Gut;Gut;Akzeptabel;Akzeptabel;"- abgeschnittene Bedienelemente
+- Einf�rbung aus voriger Version ist nicht mehr vorhanden
+- generische ""Programmierer-Label"" - ""FilePath""";weitgehend nutzbar
+18;8.21.26 15:50:26;8.21.26 15:54:19;Stefan Droese;;MigrationExperiment_Hopper;Workspace Layout Editor;Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Gut;Gut;Akzeptabel;Akzeptabel;Gut;"- abgeschnittene Bedienelemente
+- Verwechslung der Pfeil-Buttons im Tab ""Panels""
+- keine Funktion im Tab ""Viewers""
+  - Checkbox ist inaktiv/unbenutzbar
+- unerwartete Unterstriche vor zwei Labels
+  - vermutlich f�r Tastenk�rzel";teilweise nutzbar
+19;8.24.26 10:52:25;8.24.26 11:00:19;Stefan Droese;;MigrationExperiment_BernersLee;Custom Features;Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Erfolgreich;Akzeptabel;Akzeptabel;Akzeptabel;Gut;Akzeptabel;#NAME?;weitgehend nutzbar
+20;8.24.26 11:00:26;8.24.26 11:04:23;Stefan Droese;;MigrationExperiment_BernersLee;Drift Correction;Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Akzeptabel;Gut;schlecht;Akzeptabel;schlecht;#NAME?;weitgehend nutzbar
+21;8.24.26 11:04:38;8.24.26 11:08:43;Stefan Droese;;MigrationExperiment_BernersLee;Copy or move Objects;Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;schlecht;Akzeptabel;schlecht;schlecht;schlecht;"- abgeschnittene/fehlende Bedienlemente
+  - fehlend: Position, OK, Cancel
+- Fenster hat eigenen Eintrag in ALT/WIN+TAB
+  - verschwindet bei Klick in aPro";stark eingeschr�nkt nutzbar
+22;8.24.26 11:08:49;8.24.26 11:12:02;Stefan Droese;;MigrationExperiment_BernersLee;Batch Analysis;Erfolgreich;Erfolgreich;Erfolgreich;Erfolgreich;Erfolgreich;Sehr Gut;Gut;Gut;Akzeptabel;Sehr Gut;#NAME?;weitgehend nutzbar
+23;8.24.26 11:12:08;8.24.26 11:14:52;Stefan Droese;;MigrationExperiment_BernersLee;Workspace Layout Editor;Erfolgreich;Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;schlecht;Akzeptabel;schlecht;Akzeptabel;schlecht;#NAME?;stark eingeschr�nkt nutzbar
+24;8.24.26 11:27:00;8.24.26 11:31:22;Stefan Droese;;MigrationExperiment_Thompson;Custom Features;Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Akzeptabel;Akzeptabel;Akzeptabel;Akzeptabel;Akzeptabel;"- Griff & �berlaufmen� an der Toolbar
+- Unterstriche vor allen Button Labels, au�er Remove
+- Export ist aktiv, obwohl Liste leer ist
+- keine Gruppierung der Feature-Typen
+- horizontales Scrolling
+- Fenster hat eigenen Eintrag in ALT/WIN+TAB";weitgehend nutzbar
+25;8.24.26 11:27:00;8.24.26 11:33:48;Stefan Droese;;MigrationExperiment_Thompson;Drift Correction;Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Gut;Akzeptabel;Akzeptabel;Akzeptabel;schlecht;#NAME?;weitgehend nutzbar
+26;8.24.26 11:27:01;8.24.26 11:37:10;Stefan Droese;;MigrationExperiment_Thompson;Copy or move Objects;Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Akzeptabel;Gut;Akzeptabel;Akzeptabel;Akzeptabel;#NAME?;weitgehend nutzbar
+27;8.24.26 11:27:01;8.24.26 11:40:29;Stefan Droese;;MigrationExperiment_Thompson;Batch Analysis;Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Gut;Gut;Gut;Gut;Akzeptabel;"- abgeschnittene Bedienelemente
+- Unable to get Regions
+- Label bei Ausgabeparameter schlecht lesbar
+  - wei� auf hellgrau
+- Einf�rbung sichtbar, aber ein Pixel ist zu wenig";weitgehend nutzbar
+28;8.24.26 11:27:01;8.24.26 11:44:54;Stefan Droese;;MigrationExperiment_Thompson;Workspace Layout Editor;Erfolgreich;Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Sehr Gut;Sehr Gut;Gut;Gut;Akzeptabel;#NAME?;weitgehend nutzbar
+29;8.24.26 13:26:16;8.24.26 13:30:31;Stefan Droese;;MigrationExperiment_Lamport;Custom Features;Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Akzeptabel;Akzeptabel;Akzeptabel;Akzeptabel;Akzeptabel;#NAME?;weitgehend nutzbar
+30;8.24.26 13:26:19;8.24.26 13:34:15;Stefan Droese;;MigrationExperiment_Lamport;Drift Correction;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Erfolgreich;Teilweise Erfolgreich;schlecht;Akzeptabel;schlecht;Akzeptabel;schlecht;#NAME?;nicht nutzbar
+31;8.24.26 13:26:20;8.24.26 13:36:14;Stefan Droese;;MigrationExperiment_Lamport;Copy or move Objects;Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Sehr Gut;Gut;Gut;Akzeptabel;Akzeptabel;#NAME?;weitgehend nutzbar
+32;8.24.26 13:26:23;8.24.26 13:39:49;Stefan Droese;;MigrationExperiment_Lamport;Batch Analysis;Erfolgreich;Erfolgreich;Erfolgreich;Teilweise Erfolgreich;Erfolgreich;Sehr Gut;Gut;Sehr Gut;Gut;Sehr Gut;#NAME?;ohne Einschr�nkungen nutzbar
+33;8.24.26 13:26:24;8.24.26 13:43:13;Stefan Droese;;MigrationExperiment_Lamport;Workspace Layout Editor;Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Teilweise Erfolgreich;Sehr Gut;Gut;Gut;Akzeptabel;Akzeptabel;"- m�gliches Abschneiden von Bedienelementen bei Gr��en�nderung des Fensters
+  - Up/Down, <>
+- Up/Down �berlagert Eintrag in Liste des Tab Panels
+- Unterstriche vor Labels";weitgehend nutzbar
