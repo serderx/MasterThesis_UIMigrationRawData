@@ -1,0 +1,2 @@
+Thema Lazinees ist der IntensityprofilerDialog hier ein gutes Beispiel --> insgesamt wurde ein WinForms Wrapper gebaut der den gesamten alten Dialog einfach einsetzt
+--> / ist ohne Scaffoldmode daher wird hier nicht erzwungen die alten Dialog weg zu werfen --> entsprechend ein Pro Argument für Scaffoldmode
