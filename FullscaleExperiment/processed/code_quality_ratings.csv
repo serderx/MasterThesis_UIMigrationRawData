@@ -1,0 +1,31 @@
+response_id,run_id,model,model_label,model_run,quality_category,score,rating
+2,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Integration,3.0,Acceptable
+2,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,MVVM/MVC and WPF compliance,3.0,Acceptable
+2,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Readability and comprehensibility,3.0,Acceptable
+2,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Consistency with existing code,2.0,Poor
+2,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Achievement of the migration goal,2.0,Poor
+3,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Integration,3.0,Acceptable
+3,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,MVVM/MVC and WPF compliance,3.0,Acceptable
+3,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Readability and comprehensibility,4.0,Good
+3,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Consistency with existing code,3.0,Acceptable
+3,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Achievement of the migration goal,3.0,Acceptable
+4,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Integration,3.0,Acceptable
+4,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,MVVM/MVC and WPF compliance,3.0,Acceptable
+4,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Readability and comprehensibility,2.0,Poor
+4,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Consistency with existing code,2.0,Poor
+4,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Achievement of the migration goal,2.0,Poor
+5,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Integration,3.0,Acceptable
+5,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,MVVM/MVC and WPF compliance,3.0,Acceptable
+5,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Readability and comprehensibility,5.0,Very good
+5,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Consistency with existing code,3.0,Acceptable
+5,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Achievement of the migration goal,3.0,Acceptable
+6,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Integration,3.0,Acceptable
+6,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,MVVM/MVC and WPF compliance,3.0,Acceptable
+6,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Readability and comprehensibility,4.0,Good
+6,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Consistency with existing code,3.0,Acceptable
+6,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Achievement of the migration goal,3.0,Acceptable
+7,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Integration,3.0,Acceptable
+7,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,MVVM/MVC and WPF compliance,2.0,Poor
+7,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Readability and comprehensibility,4.0,Good
+7,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Consistency with existing code,2.0,Poor
+7,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Achievement of the migration goal,3.0,Acceptable

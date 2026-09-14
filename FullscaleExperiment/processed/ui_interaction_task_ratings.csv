@@ -1,0 +1,151 @@
+response_id,run_id,model,model_label,model_run,dialogue_name,interaction_category,score,outcome
+4,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Custom Features,Input fields,3.0,Successful
+4,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Custom Features,Buttons,2.0,Partially successful
+4,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Custom Features,Custom controls,1.0,Failed
+4,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Custom Features,General window behaviour,2.0,Partially successful
+4,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Custom Features,Labels,2.0,Partially successful
+5,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Drift Correction,Input fields,1.0,Failed
+5,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Drift Correction,Buttons,2.0,Partially successful
+5,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Drift Correction,Custom controls,2.0,Partially successful
+5,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Drift Correction,General window behaviour,2.0,Partially successful
+5,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Drift Correction,Labels,2.0,Partially successful
+6,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Copy or move Objects,Input fields,2.0,Partially successful
+6,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Copy or move Objects,Buttons,3.0,Successful
+6,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Copy or move Objects,Custom controls,2.0,Partially successful
+6,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Copy or move Objects,General window behaviour,2.0,Partially successful
+6,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Copy or move Objects,Labels,2.0,Partially successful
+7,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Batch Analysis,Input fields,2.0,Partially successful
+7,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Batch Analysis,Buttons,2.0,Partially successful
+7,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Batch Analysis,Custom controls,2.0,Partially successful
+7,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Batch Analysis,General window behaviour,3.0,Successful
+7,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Batch Analysis,Labels,2.0,Partially successful
+8,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Workspace Layout Editor,Input fields,3.0,Successful
+8,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Workspace Layout Editor,Buttons,2.0,Partially successful
+8,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Workspace Layout Editor,Custom controls,3.0,Successful
+8,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Workspace Layout Editor,General window behaviour,2.0,Partially successful
+8,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Workspace Layout Editor,Labels,2.0,Partially successful
+9,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Custom Features,Input fields,2.0,Partially successful
+9,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Custom Features,Buttons,2.0,Partially successful
+9,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Custom Features,Custom controls,2.0,Partially successful
+9,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Custom Features,General window behaviour,3.0,Successful
+9,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Custom Features,Labels,2.0,Partially successful
+10,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Drift Correction,Input fields,2.0,Partially successful
+10,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Drift Correction,Buttons,2.0,Partially successful
+10,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Drift Correction,Custom controls,2.0,Partially successful
+10,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Drift Correction,General window behaviour,3.0,Successful
+10,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Drift Correction,Labels,3.0,Successful
+11,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Copy or move Objects,Input fields,3.0,Successful
+11,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Copy or move Objects,Buttons,2.0,Partially successful
+11,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Copy or move Objects,Custom controls,3.0,Successful
+11,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Copy or move Objects,General window behaviour,2.0,Partially successful
+11,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Copy or move Objects,Labels,2.0,Partially successful
+12,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Batch Analysis,Input fields,2.0,Partially successful
+12,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Batch Analysis,Buttons,2.0,Partially successful
+12,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Batch Analysis,Custom controls,2.0,Partially successful
+12,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Batch Analysis,General window behaviour,3.0,Successful
+12,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Batch Analysis,Labels,2.0,Partially successful
+13,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Workspace Layout Editor,Input fields,3.0,Successful
+13,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Workspace Layout Editor,Buttons,2.0,Partially successful
+13,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Workspace Layout Editor,Custom controls,1.0,Failed
+13,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Workspace Layout Editor,General window behaviour,2.0,Partially successful
+13,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Workspace Layout Editor,Labels,2.0,Partially successful
+14,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Custom Features,Input fields,2.0,Partially successful
+14,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Custom Features,Buttons,2.0,Partially successful
+14,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Custom Features,Custom controls,1.0,Failed
+14,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Custom Features,General window behaviour,2.0,Partially successful
+14,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Custom Features,Labels,3.0,Successful
+15,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Drift Correction,Input fields,2.0,Partially successful
+15,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Drift Correction,Buttons,2.0,Partially successful
+15,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Drift Correction,Custom controls,2.0,Partially successful
+15,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Drift Correction,General window behaviour,2.0,Partially successful
+15,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Drift Correction,Labels,2.0,Partially successful
+16,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Copy or move Objects,Input fields,3.0,Successful
+16,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Copy or move Objects,Buttons,2.0,Partially successful
+16,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Copy or move Objects,Custom controls,2.0,Partially successful
+16,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Copy or move Objects,General window behaviour,2.0,Partially successful
+16,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Copy or move Objects,Labels,2.0,Partially successful
+17,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Batch Analysis,Input fields,2.0,Partially successful
+17,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Batch Analysis,Buttons,2.0,Partially successful
+17,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Batch Analysis,Custom controls,2.0,Partially successful
+17,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Batch Analysis,General window behaviour,3.0,Successful
+17,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Batch Analysis,Labels,2.0,Partially successful
+18,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Workspace Layout Editor,Input fields,3.0,Successful
+18,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Workspace Layout Editor,Buttons,2.0,Partially successful
+18,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Workspace Layout Editor,Custom controls,2.0,Partially successful
+18,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Workspace Layout Editor,General window behaviour,2.0,Partially successful
+18,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Workspace Layout Editor,Labels,2.0,Partially successful
+19,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Custom Features,Input fields,3.0,Successful
+19,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Custom Features,Buttons,2.0,Partially successful
+19,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Custom Features,Custom controls,2.0,Partially successful
+19,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Custom Features,General window behaviour,2.0,Partially successful
+19,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Custom Features,Labels,3.0,Successful
+20,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Drift Correction,Input fields,3.0,Successful
+20,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Drift Correction,Buttons,2.0,Partially successful
+20,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Drift Correction,Custom controls,2.0,Partially successful
+20,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Drift Correction,General window behaviour,2.0,Partially successful
+20,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Drift Correction,Labels,2.0,Partially successful
+21,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Copy or move Objects,Input fields,3.0,Successful
+21,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Copy or move Objects,Buttons,3.0,Successful
+21,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Copy or move Objects,Custom controls,2.0,Partially successful
+21,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Copy or move Objects,General window behaviour,2.0,Partially successful
+21,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Copy or move Objects,Labels,2.0,Partially successful
+22,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Batch Analysis,Input fields,3.0,Successful
+22,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Batch Analysis,Buttons,3.0,Successful
+22,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Batch Analysis,Custom controls,3.0,Successful
+22,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Batch Analysis,General window behaviour,3.0,Successful
+22,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Batch Analysis,Labels,3.0,Successful
+23,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Workspace Layout Editor,Input fields,3.0,Successful
+23,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Workspace Layout Editor,Buttons,3.0,Successful
+23,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Workspace Layout Editor,Custom controls,3.0,Successful
+23,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Workspace Layout Editor,General window behaviour,2.0,Partially successful
+23,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Workspace Layout Editor,Labels,2.0,Partially successful
+24,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Custom Features,Input fields,3.0,Successful
+24,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Custom Features,Buttons,3.0,Successful
+24,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Custom Features,Custom controls,2.0,Partially successful
+24,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Custom Features,General window behaviour,2.0,Partially successful
+24,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Custom Features,Labels,2.0,Partially successful
+25,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Drift Correction,Input fields,3.0,Successful
+25,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Drift Correction,Buttons,3.0,Successful
+25,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Drift Correction,Custom controls,2.0,Partially successful
+25,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Drift Correction,General window behaviour,3.0,Successful
+25,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Drift Correction,Labels,2.0,Partially successful
+26,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Copy or move Objects,Input fields,3.0,Successful
+26,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Copy or move Objects,Buttons,3.0,Successful
+26,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Copy or move Objects,Custom controls,2.0,Partially successful
+26,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Copy or move Objects,General window behaviour,2.0,Partially successful
+26,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Copy or move Objects,Labels,2.0,Partially successful
+27,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Batch Analysis,Input fields,3.0,Successful
+27,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Batch Analysis,Buttons,2.0,Partially successful
+27,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Batch Analysis,Custom controls,2.0,Partially successful
+27,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Batch Analysis,General window behaviour,2.0,Partially successful
+27,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Batch Analysis,Labels,2.0,Partially successful
+28,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Workspace Layout Editor,Input fields,3.0,Successful
+28,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Workspace Layout Editor,Buttons,3.0,Successful
+28,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Workspace Layout Editor,Custom controls,3.0,Successful
+28,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Workspace Layout Editor,General window behaviour,2.0,Partially successful
+28,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Workspace Layout Editor,Labels,2.0,Partially successful
+29,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Custom Features,Input fields,3.0,Successful
+29,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Custom Features,Buttons,2.0,Partially successful
+29,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Custom Features,Custom controls,2.0,Partially successful
+29,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Custom Features,General window behaviour,3.0,Successful
+29,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Custom Features,Labels,2.0,Partially successful
+30,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Drift Correction,Input fields,2.0,Partially successful
+30,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Drift Correction,Buttons,2.0,Partially successful
+30,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Drift Correction,Custom controls,2.0,Partially successful
+30,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Drift Correction,General window behaviour,3.0,Successful
+30,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Drift Correction,Labels,2.0,Partially successful
+31,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Copy or move Objects,Input fields,3.0,Successful
+31,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Copy or move Objects,Buttons,3.0,Successful
+31,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Copy or move Objects,Custom controls,2.0,Partially successful
+31,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Copy or move Objects,General window behaviour,3.0,Successful
+31,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Copy or move Objects,Labels,2.0,Partially successful
+32,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Batch Analysis,Input fields,3.0,Successful
+32,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Batch Analysis,Buttons,3.0,Successful
+32,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Batch Analysis,Custom controls,3.0,Successful
+32,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Batch Analysis,General window behaviour,2.0,Partially successful
+32,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Batch Analysis,Labels,3.0,Successful
+33,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Workspace Layout Editor,Input fields,3.0,Successful
+33,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Workspace Layout Editor,Buttons,2.0,Partially successful
+33,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Workspace Layout Editor,Custom controls,2.0,Partially successful
+33,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Workspace Layout Editor,General window behaviour,2.0,Partially successful
+33,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Workspace Layout Editor,Labels,2.0,Partially successful

@@ -1,0 +1,31 @@
+run_id,model,run_number,dialogue_id,dialogue_name,complexity,subdialogues,openable
+MigrationExperiment_Lovelace,gpt-56-terra,1,batch_analysis,Batch Analysis,Medium,2,True
+MigrationExperiment_Lovelace,gpt-56-terra,1,copy_move_objects,Copy or Move Objects,Easy,1,True
+MigrationExperiment_Lovelace,gpt-56-terra,1,custom_feature,Custom Features,Hard,9,True
+MigrationExperiment_Lovelace,gpt-56-terra,1,drift_correction,Drift Correction,Easy,2,True
+MigrationExperiment_Lovelace,gpt-56-terra,1,workspace_layout_editor,Workspace Layout Editor,Easy,1,True
+MigrationExperiment_Turing,gpt-56-terra,2,batch_analysis,Batch Analysis,Medium,2,True
+MigrationExperiment_Turing,gpt-56-terra,2,copy_move_objects,Copy or Move Objects,Easy,1,True
+MigrationExperiment_Turing,gpt-56-terra,2,custom_feature,Custom Features,Hard,9,True
+MigrationExperiment_Turing,gpt-56-terra,2,drift_correction,Drift Correction,Easy,2,True
+MigrationExperiment_Turing,gpt-56-terra,2,workspace_layout_editor,Workspace Layout Editor,Easy,1,True
+MigrationExperiment_Hopper,gpt-56-terra,3,batch_analysis,Batch Analysis,Medium,2,True
+MigrationExperiment_Hopper,gpt-56-terra,3,copy_move_objects,Copy or Move Objects,Easy,1,True
+MigrationExperiment_Hopper,gpt-56-terra,3,custom_feature,Custom Features,Hard,9,True
+MigrationExperiment_Hopper,gpt-56-terra,3,drift_correction,Drift Correction,Easy,2,True
+MigrationExperiment_Hopper,gpt-56-terra,3,workspace_layout_editor,Workspace Layout Editor,Easy,1,True
+MigrationExperiment_BernersLee,claude-sonette-5,1,batch_analysis,Batch Analysis,Medium,2,True
+MigrationExperiment_BernersLee,claude-sonette-5,1,copy_move_objects,Copy or Move Objects,Easy,1,True
+MigrationExperiment_BernersLee,claude-sonette-5,1,custom_feature,Custom Features,Hard,9,True
+MigrationExperiment_BernersLee,claude-sonette-5,1,drift_correction,Drift Correction,Easy,2,True
+MigrationExperiment_BernersLee,claude-sonette-5,1,workspace_layout_editor,Workspace Layout Editor,Easy,1,True
+MigrationExperiment_Thompson,claude-sonette-5,2,batch_analysis,Batch Analysis,Medium,2,True
+MigrationExperiment_Thompson,claude-sonette-5,2,copy_move_objects,Copy or Move Objects,Easy,1,True
+MigrationExperiment_Thompson,claude-sonette-5,2,custom_feature,Custom Features,Hard,9,True
+MigrationExperiment_Thompson,claude-sonette-5,2,drift_correction,Drift Correction,Easy,2,True
+MigrationExperiment_Thompson,claude-sonette-5,2,workspace_layout_editor,Workspace Layout Editor,Easy,1,True
+MigrationExperiment_Lamport,claude-sonette-5,3,batch_analysis,Batch Analysis,Medium,2,True
+MigrationExperiment_Lamport,claude-sonette-5,3,copy_move_objects,Copy or Move Objects,Easy,1,True
+MigrationExperiment_Lamport,claude-sonette-5,3,custom_feature,Custom Features,Hard,9,True
+MigrationExperiment_Lamport,claude-sonette-5,3,drift_correction,Drift Correction,Easy,2,True
+MigrationExperiment_Lamport,claude-sonette-5,3,workspace_layout_editor,Workspace Layout Editor,Easy,1,True

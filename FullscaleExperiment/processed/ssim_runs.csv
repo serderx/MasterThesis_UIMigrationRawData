@@ -1,0 +1,7 @@
+run_id,ssim_available_count,ssim_expected_count,ssim_coverage,ssim_conditional,visual_quality_adjusted
+MigrationExperiment_BernersLee,5,5,100.0,0.5995657271069471,0.5995657271069471
+MigrationExperiment_Hopper,5,5,100.0,0.5820238543138108,0.5820238543138108
+MigrationExperiment_Lamport,5,5,100.0,0.6067916955132937,0.6067916955132937
+MigrationExperiment_Lovelace,5,5,100.0,0.6484733437462988,0.6484733437462988
+MigrationExperiment_Thompson,5,5,100.0,0.5911481234534401,0.5911481234534401
+MigrationExperiment_Turing,5,5,100.0,0.6091877568927739,0.6091877568927739

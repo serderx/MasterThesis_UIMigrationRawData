@@ -1,0 +1,7 @@
+run_id,human_intervention_count,hi_total_duration_seconds,hi_mean_duration_seconds,hi_median_duration_seconds,hi_max_duration_seconds,hi_mean_difficulty_score,hi_max_difficulty_score,hi_low_count,hi_medium_count,hi_high_count
+MigrationExperiment_BernersLee,19,26,1.368421052631579,1.0,5,1.0,1,19,0,0
+MigrationExperiment_Hopper,21,28,1.3333333333333333,1.0,5,1.0,1,21,0,0
+MigrationExperiment_Lamport,25,30,1.2,1.0,5,1.0,1,25,0,0
+MigrationExperiment_Lovelace,16,30,1.875,1.0,10,1.125,2,14,2,0
+MigrationExperiment_Thompson,19,22,1.1578947368421053,1.0,5,1.0,1,19,0,0
+MigrationExperiment_Turing,25,40,1.6,1.0,10,1.04,2,24,1,0

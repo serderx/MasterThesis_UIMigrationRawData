@@ -1,0 +1,151 @@
+response_id,run_id,model,model_label,model_run,dialogue_name,quality_dimension,score,rating
+4,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Custom Features,Completeness,3.0,Acceptable
+4,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Custom Features,Feedback behaviour,4.0,Good
+4,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Custom Features,Usability,3.0,Acceptable
+4,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Custom Features,Robustness,3.0,Acceptable
+4,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Custom Features,Visual correctness,2.0,Poor
+5,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Drift Correction,Completeness,1.0,Very poor
+5,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Drift Correction,Feedback behaviour,3.0,Acceptable
+5,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Drift Correction,Usability,3.0,Acceptable
+5,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Drift Correction,Robustness,4.0,Good
+5,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Drift Correction,Visual correctness,2.0,Poor
+6,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Copy or move Objects,Completeness,5.0,Very good
+6,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Copy or move Objects,Feedback behaviour,4.0,Good
+6,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Copy or move Objects,Usability,4.0,Good
+6,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Copy or move Objects,Robustness,4.0,Good
+6,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Copy or move Objects,Visual correctness,4.0,Good
+7,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Batch Analysis,Completeness,4.0,Good
+7,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Batch Analysis,Feedback behaviour,3.0,Acceptable
+7,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Batch Analysis,Usability,4.0,Good
+7,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Batch Analysis,Robustness,3.0,Acceptable
+7,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Batch Analysis,Visual correctness,2.0,Poor
+8,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Workspace Layout Editor,Completeness,2.0,Poor
+8,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Workspace Layout Editor,Feedback behaviour,3.0,Acceptable
+8,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Workspace Layout Editor,Usability,3.0,Acceptable
+8,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Workspace Layout Editor,Robustness,3.0,Acceptable
+8,MigrationExperiment_Lovelace,gpt-56-terra,GPT-56 Terra,1,Workspace Layout Editor,Visual correctness,3.0,Acceptable
+9,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Custom Features,Completeness,4.0,Good
+9,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Custom Features,Feedback behaviour,4.0,Good
+9,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Custom Features,Usability,4.0,Good
+9,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Custom Features,Robustness,4.0,Good
+9,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Custom Features,Visual correctness,3.0,Acceptable
+10,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Drift Correction,Completeness,2.0,Poor
+10,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Drift Correction,Feedback behaviour,3.0,Acceptable
+10,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Drift Correction,Usability,3.0,Acceptable
+10,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Drift Correction,Robustness,3.0,Acceptable
+10,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Drift Correction,Visual correctness,2.0,Poor
+11,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Copy or move Objects,Completeness,2.0,Poor
+11,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Copy or move Objects,Feedback behaviour,3.0,Acceptable
+11,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Copy or move Objects,Usability,3.0,Acceptable
+11,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Copy or move Objects,Robustness,3.0,Acceptable
+11,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Copy or move Objects,Visual correctness,2.0,Poor
+12,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Batch Analysis,Completeness,4.0,Good
+12,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Batch Analysis,Feedback behaviour,3.0,Acceptable
+12,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Batch Analysis,Usability,3.0,Acceptable
+12,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Batch Analysis,Robustness,3.0,Acceptable
+12,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Batch Analysis,Visual correctness,3.0,Acceptable
+13,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Workspace Layout Editor,Completeness,2.0,Poor
+13,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Workspace Layout Editor,Feedback behaviour,3.0,Acceptable
+13,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Workspace Layout Editor,Usability,3.0,Acceptable
+13,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Workspace Layout Editor,Robustness,3.0,Acceptable
+13,MigrationExperiment_Turing,gpt-56-terra,GPT-56 Terra,2,Workspace Layout Editor,Visual correctness,2.0,Poor
+14,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Custom Features,Completeness,4.0,Good
+14,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Custom Features,Feedback behaviour,3.0,Acceptable
+14,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Custom Features,Usability,2.0,Poor
+14,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Custom Features,Robustness,2.0,Poor
+14,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Custom Features,Visual correctness,3.0,Acceptable
+15,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Drift Correction,Completeness,5.0,Very good
+15,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Drift Correction,Feedback behaviour,4.0,Good
+15,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Drift Correction,Usability,4.0,Good
+15,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Drift Correction,Robustness,4.0,Good
+15,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Drift Correction,Visual correctness,5.0,Very good
+16,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Copy or move Objects,Completeness,3.0,Acceptable
+16,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Copy or move Objects,Feedback behaviour,4.0,Good
+16,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Copy or move Objects,Usability,3.0,Acceptable
+16,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Copy or move Objects,Robustness,3.0,Acceptable
+16,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Copy or move Objects,Visual correctness,3.0,Acceptable
+17,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Batch Analysis,Completeness,5.0,Very good
+17,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Batch Analysis,Feedback behaviour,4.0,Good
+17,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Batch Analysis,Usability,4.0,Good
+17,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Batch Analysis,Robustness,3.0,Acceptable
+17,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Batch Analysis,Visual correctness,3.0,Acceptable
+18,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Workspace Layout Editor,Completeness,4.0,Good
+18,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Workspace Layout Editor,Feedback behaviour,4.0,Good
+18,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Workspace Layout Editor,Usability,3.0,Acceptable
+18,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Workspace Layout Editor,Robustness,3.0,Acceptable
+18,MigrationExperiment_Hopper,gpt-56-terra,GPT-56 Terra,3,Workspace Layout Editor,Visual correctness,4.0,Good
+19,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Custom Features,Completeness,3.0,Acceptable
+19,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Custom Features,Feedback behaviour,3.0,Acceptable
+19,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Custom Features,Usability,3.0,Acceptable
+19,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Custom Features,Robustness,4.0,Good
+19,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Custom Features,Visual correctness,3.0,Acceptable
+20,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Drift Correction,Completeness,3.0,Acceptable
+20,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Drift Correction,Feedback behaviour,4.0,Good
+20,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Drift Correction,Usability,2.0,Poor
+20,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Drift Correction,Robustness,3.0,Acceptable
+20,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Drift Correction,Visual correctness,2.0,Poor
+21,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Copy or move Objects,Completeness,2.0,Poor
+21,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Copy or move Objects,Feedback behaviour,3.0,Acceptable
+21,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Copy or move Objects,Usability,2.0,Poor
+21,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Copy or move Objects,Robustness,2.0,Poor
+21,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Copy or move Objects,Visual correctness,2.0,Poor
+22,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Batch Analysis,Completeness,5.0,Very good
+22,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Batch Analysis,Feedback behaviour,4.0,Good
+22,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Batch Analysis,Usability,4.0,Good
+22,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Batch Analysis,Robustness,3.0,Acceptable
+22,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Batch Analysis,Visual correctness,5.0,Very good
+23,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Workspace Layout Editor,Completeness,2.0,Poor
+23,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Workspace Layout Editor,Feedback behaviour,3.0,Acceptable
+23,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Workspace Layout Editor,Usability,2.0,Poor
+23,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Workspace Layout Editor,Robustness,3.0,Acceptable
+23,MigrationExperiment_BernersLee,claude-sonette-5,Claude Sonnet 5,1,Workspace Layout Editor,Visual correctness,2.0,Poor
+24,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Custom Features,Completeness,3.0,Acceptable
+24,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Custom Features,Feedback behaviour,3.0,Acceptable
+24,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Custom Features,Usability,3.0,Acceptable
+24,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Custom Features,Robustness,3.0,Acceptable
+24,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Custom Features,Visual correctness,3.0,Acceptable
+25,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Drift Correction,Completeness,4.0,Good
+25,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Drift Correction,Feedback behaviour,3.0,Acceptable
+25,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Drift Correction,Usability,3.0,Acceptable
+25,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Drift Correction,Robustness,3.0,Acceptable
+25,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Drift Correction,Visual correctness,2.0,Poor
+26,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Copy or move Objects,Completeness,3.0,Acceptable
+26,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Copy or move Objects,Feedback behaviour,4.0,Good
+26,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Copy or move Objects,Usability,3.0,Acceptable
+26,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Copy or move Objects,Robustness,3.0,Acceptable
+26,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Copy or move Objects,Visual correctness,3.0,Acceptable
+27,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Batch Analysis,Completeness,4.0,Good
+27,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Batch Analysis,Feedback behaviour,4.0,Good
+27,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Batch Analysis,Usability,4.0,Good
+27,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Batch Analysis,Robustness,4.0,Good
+27,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Batch Analysis,Visual correctness,3.0,Acceptable
+28,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Workspace Layout Editor,Completeness,5.0,Very good
+28,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Workspace Layout Editor,Feedback behaviour,5.0,Very good
+28,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Workspace Layout Editor,Usability,4.0,Good
+28,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Workspace Layout Editor,Robustness,4.0,Good
+28,MigrationExperiment_Thompson,claude-sonette-5,Claude Sonnet 5,2,Workspace Layout Editor,Visual correctness,3.0,Acceptable
+29,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Custom Features,Completeness,3.0,Acceptable
+29,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Custom Features,Feedback behaviour,3.0,Acceptable
+29,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Custom Features,Usability,3.0,Acceptable
+29,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Custom Features,Robustness,3.0,Acceptable
+29,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Custom Features,Visual correctness,3.0,Acceptable
+30,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Drift Correction,Completeness,2.0,Poor
+30,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Drift Correction,Feedback behaviour,3.0,Acceptable
+30,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Drift Correction,Usability,2.0,Poor
+30,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Drift Correction,Robustness,3.0,Acceptable
+30,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Drift Correction,Visual correctness,2.0,Poor
+31,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Copy or move Objects,Completeness,5.0,Very good
+31,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Copy or move Objects,Feedback behaviour,4.0,Good
+31,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Copy or move Objects,Usability,4.0,Good
+31,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Copy or move Objects,Robustness,3.0,Acceptable
+31,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Copy or move Objects,Visual correctness,3.0,Acceptable
+32,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Batch Analysis,Completeness,5.0,Very good
+32,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Batch Analysis,Feedback behaviour,4.0,Good
+32,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Batch Analysis,Usability,5.0,Very good
+32,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Batch Analysis,Robustness,4.0,Good
+32,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Batch Analysis,Visual correctness,5.0,Very good
+33,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Workspace Layout Editor,Completeness,5.0,Very good
+33,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Workspace Layout Editor,Feedback behaviour,4.0,Good
+33,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Workspace Layout Editor,Usability,4.0,Good
+33,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Workspace Layout Editor,Robustness,3.0,Acceptable
+33,MigrationExperiment_Lamport,claude-sonette-5,Claude Sonnet 5,3,Workspace Layout Editor,Visual correctness,3.0,Acceptable

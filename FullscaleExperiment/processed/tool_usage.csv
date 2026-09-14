@@ -1,0 +1,57 @@
+run_id,action_type,tool_category,calls,successful_calls,success_rate
+MigrationExperiment_BernersLee,CreateFile,Mutation,31,31.0,1.0
+MigrationExperiment_BernersLee,FileDeprecated,Mutation,15,15.0,1.0
+MigrationExperiment_BernersLee,GetFileDiagnostics,Perception,5,5.0,1.0
+MigrationExperiment_BernersLee,GetFileTree,Perception,6,6.0,1.0
+MigrationExperiment_BernersLee,GetSignature,Code Analysis,3,3.0,1.0
+MigrationExperiment_BernersLee,GetUsage,Code Analysis,4,4.0,1.0
+MigrationExperiment_BernersLee,ReadFile,Perception,21,21.0,1.0
+MigrationExperiment_BernersLee,ReplaceFile,Mutation,28,24.0,0.8571428571428571
+MigrationExperiment_BernersLee,UpsertFinding,Memory,3,3.0,1.0
+MigrationExperiment_Hopper,CreateFile,Mutation,30,30.0,1.0
+MigrationExperiment_Hopper,FileDeprecated,Mutation,15,15.0,1.0
+MigrationExperiment_Hopper,GetFileDiagnostics,Perception,21,21.0,1.0
+MigrationExperiment_Hopper,GetFileTree,Perception,9,9.0,1.0
+MigrationExperiment_Hopper,GetSignature,Code Analysis,9,9.0,1.0
+MigrationExperiment_Hopper,GetUsage,Code Analysis,18,18.0,1.0
+MigrationExperiment_Hopper,ReadFile,Perception,33,33.0,1.0
+MigrationExperiment_Hopper,ReplaceFile,Mutation,36,36.0,1.0
+MigrationExperiment_Hopper,UpsertFinding,Memory,5,5.0,1.0
+MigrationExperiment_Lamport,CreateFile,Mutation,31,31.0,1.0
+MigrationExperiment_Lamport,FileDeprecated,Mutation,15,15.0,1.0
+MigrationExperiment_Lamport,GetFileDiagnostics,Perception,7,7.0,1.0
+MigrationExperiment_Lamport,GetFileTree,Perception,4,4.0,1.0
+MigrationExperiment_Lamport,GetSignature,Code Analysis,8,8.0,1.0
+MigrationExperiment_Lamport,GetUsage,Code Analysis,5,5.0,1.0
+MigrationExperiment_Lamport,ReadFile,Perception,37,37.0,1.0
+MigrationExperiment_Lamport,ReplaceFile,Mutation,32,31.0,0.96875
+MigrationExperiment_Lamport,SearchFindings,Memory,2,2.0,1.0
+MigrationExperiment_Lamport,UpsertFinding,Memory,3,3.0,1.0
+MigrationExperiment_Lovelace,CreateFile,Mutation,25,25.0,1.0
+MigrationExperiment_Lovelace,FileDeprecated,Mutation,15,15.0,1.0
+MigrationExperiment_Lovelace,GetFileDiagnostics,Perception,8,8.0,1.0
+MigrationExperiment_Lovelace,GetFileTree,Perception,3,3.0,1.0
+MigrationExperiment_Lovelace,GetSignature,Code Analysis,1,1.0,1.0
+MigrationExperiment_Lovelace,GetUsage,Code Analysis,10,10.0,1.0
+MigrationExperiment_Lovelace,ReadFile,Perception,11,11.0,1.0
+MigrationExperiment_Lovelace,ReplaceFile,Mutation,31,31.0,1.0
+MigrationExperiment_Lovelace,UpsertFinding,Memory,1,1.0,1.0
+MigrationExperiment_Thompson,CreateFile,Mutation,31,31.0,1.0
+MigrationExperiment_Thompson,FileDeprecated,Mutation,15,15.0,1.0
+MigrationExperiment_Thompson,GetFileDiagnostics,Perception,4,4.0,1.0
+MigrationExperiment_Thompson,GetFileTree,Perception,4,4.0,1.0
+MigrationExperiment_Thompson,GetSignature,Code Analysis,2,2.0,1.0
+MigrationExperiment_Thompson,GetUsage,Code Analysis,5,5.0,1.0
+MigrationExperiment_Thompson,ReadFile,Perception,25,25.0,1.0
+MigrationExperiment_Thompson,ReplaceFile,Mutation,25,25.0,1.0
+MigrationExperiment_Thompson,SearchFindings,Memory,2,2.0,1.0
+MigrationExperiment_Thompson,UpsertFinding,Memory,2,2.0,1.0
+MigrationExperiment_Turing,CreateFile,Mutation,30,30.0,1.0
+MigrationExperiment_Turing,FileDeprecated,Mutation,15,15.0,1.0
+MigrationExperiment_Turing,GetFileDiagnostics,Perception,13,13.0,1.0
+MigrationExperiment_Turing,GetFileTree,Perception,1,1.0,1.0
+MigrationExperiment_Turing,GetSignature,Code Analysis,3,3.0,1.0
+MigrationExperiment_Turing,GetUsage,Code Analysis,3,3.0,1.0
+MigrationExperiment_Turing,ReadFile,Perception,26,26.0,1.0
+MigrationExperiment_Turing,ReplaceFile,Mutation,33,33.0,1.0
+MigrationExperiment_Turing,UpsertFinding,Memory,4,4.0,1.0

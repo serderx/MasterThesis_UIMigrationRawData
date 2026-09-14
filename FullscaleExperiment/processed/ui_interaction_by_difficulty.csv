@@ -1,0 +1,7 @@
+model,model_label,difficulty,dialogues,dialogue_model_observations,mean_task_outcome,mean_successful_tasks_pct,mean_interaction_quality,mean_overall_impression
+claude-sonette-5,Claude Sonnet 5,Easy,3,3,2.4222222222222225,42.22222222222222,3.0888888888888886,3.6666666666666665
+claude-sonette-5,Claude Sonnet 5,Medium,1,1,2.6666666666666665,66.66666666666667,4.2,4.0
+claude-sonette-5,Claude Sonnet 5,Hard,1,1,2.4,40.0,3.0666666666666664,4.0
+gpt-56-terra,GPT-56 Terra,Easy,3,3,2.177777777777778,22.222222222222225,3.1777777777777785,3.3333333333333335
+gpt-56-terra,GPT-56 Terra,Medium,1,1,2.2,20.0,3.4,4.0
+gpt-56-terra,GPT-56 Terra,Hard,1,1,2.066666666666667,20.0,3.1999999999999997,4.0

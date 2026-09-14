@@ -1,0 +1,126 @@
+run_id,intervention_index,intervention_name,description,difficulty,difficulty_score,duration_seconds
+MigrationExperiment_Lamport,1,removed copy deprecated move dialog,,Low,1,1
+MigrationExperiment_Lamport,2,mehr deutiger Verweis gefixt,,Low,1,1
+MigrationExperiment_Lamport,3,mehrdeutiger Verweis gefixt,,Low,1,1
+MigrationExperiment_Lamport,4,removed incorrect using,,Low,1,1
+MigrationExperiment_Lamport,5,Reference correct RelayCommand,,Low,1,5
+MigrationExperiment_Lamport,6,exchagned dialogresultt == true with correct version,,Low,1,1
+MigrationExperiment_Lamport,7,mehr deutiger Verweis von Message Boxes,,Low,1,3
+MigrationExperiment_Lamport,8,fixed again a wrong dialog result check,,Low,1,1
+MigrationExperiment_Lamport,9,New Intervention,,Low,1,0
+MigrationExperiment_Lamport,10,fixed filedialog using,,Low,1,1
+MigrationExperiment_Lamport,11,fixed use of showdialog,,Low,1,1
+MigrationExperiment_Lamport,12,removed false argument from show dialog,,Low,1,1
+MigrationExperiment_Lamport,13,removed incorrect using,,Low,1,1
+MigrationExperiment_Lamport,14,inkonsistenter Datenzugriff gefixt,,Low,1,1
+MigrationExperiment_Lamport,15,inkonsistenter Datenzugriff gefixt,,Low,1,1
+MigrationExperiment_Lamport,16,inkonsistenter Datenzugriff gefixt,,Low,1,1
+MigrationExperiment_Lamport,17,No definition for start position found fixed,,Low,1,1
+MigrationExperiment_Lamport,18,inkonsistenter Datenzugriff gefixt,,Low,1,1
+MigrationExperiment_Lamport,19,added missing using,,Low,1,1
+MigrationExperiment_Lamport,20,added missing using,,Low,1,1
+MigrationExperiment_Lamport,21,fixed openToolWindow call,,Low,1,1
+MigrationExperiment_Lamport,22,added missing using,,Low,1,1
+MigrationExperiment_Lamport,23,added missing using,,Low,1,1
+MigrationExperiment_Lamport,24,removed unsupported using wrapper around non disposable class,,Low,1,1
+MigrationExperiment_Lamport,25,fixed dialog call,,Low,1,1
+MigrationExperiment_Thompson,1,removed copy move dialog correctly,,Low,1,1
+MigrationExperiment_Thompson,2,added missing using,,Low,1,1
+MigrationExperiment_Thompson,3,fixed inkonsistente Zugriffsmodifikatoren,,Low,1,1
+MigrationExperiment_Thompson,4,fixed wrong if with dialog result,,Low,1,1
+MigrationExperiment_Thompson,5,doppelter Verweis auf Message box resolved,,Low,1,1
+MigrationExperiment_Thompson,6,SaveFiledialog verweis war nicht klar,,Low,1,1
+MigrationExperiment_Thompson,7,New Intervention,,Low,1,1
+MigrationExperiment_Thompson,8,removed incorrect namespace,,Low,1,1
+MigrationExperiment_Thompson,9,inkonistenter Datenzugriff,,Low,1,1
+MigrationExperiment_Thompson,10,inkonistenter Datenzugriff,,Low,1,1
+MigrationExperiment_Thompson,11,inkonistenter Datenzugriff,,Low,1,1
+MigrationExperiment_Thompson,12,inkonistenter Datenzugriff,,Low,1,1
+MigrationExperiment_Thompson,13,inkonistenter Datenzugriff,,Low,1,1
+MigrationExperiment_Thompson,14,inkonistenter Datenzugriff,,Low,1,1
+MigrationExperiment_Thompson,15,Scope Reference fixed,,Low,1,1
+MigrationExperiment_Thompson,16,added missing using,,Low,1,1
+MigrationExperiment_Thompson,17,added correct RelayCommand,,Low,1,5
+MigrationExperiment_Thompson,18,added missing using,,Low,1,0
+MigrationExperiment_Thompson,19,fixed method call,,Low,1,1
+MigrationExperiment_BernersLee,1,add false using for old RelayCommands,,Low,1,5
+MigrationExperiment_BernersLee,2,added missing using,,Low,1,1
+MigrationExperiment_BernersLee,3,added missing using,,Low,1,1
+MigrationExperiment_BernersLee,4,fixed mehrdeutigen Verweis,,Low,1,1
+MigrationExperiment_BernersLee,5,removed wrong using,,Low,1,1
+MigrationExperiment_BernersLee,6,inkosistenter Zugriff,,Low,1,3
+MigrationExperiment_BernersLee,7,inkosistenter Zugriff,,Low,1,1
+MigrationExperiment_BernersLee,8,inkosistenter Zugriff,,Low,1,1
+MigrationExperiment_BernersLee,9,fixed wrong call off show dialog,,Low,1,1
+MigrationExperiment_BernersLee,10,make HelpID int,,Low,1,1
+MigrationExperiment_BernersLee,11,inkosistenter Zugriff,,Low,1,1
+MigrationExperiment_BernersLee,12,inkosistenter Zugriff,,Low,1,1
+MigrationExperiment_BernersLee,13,inkosistenter Zugriff,,Low,1,1
+MigrationExperiment_BernersLee,14,inkosistenter Zugriff,,Low,1,1
+MigrationExperiment_BernersLee,15,added missing using,,Low,1,1
+MigrationExperiment_BernersLee,16,added missing using,,Low,1,1
+MigrationExperiment_BernersLee,17,RelayCommand misspelled method name,,Low,1,1
+MigrationExperiment_BernersLee,18,ViewModelbase does not implement SetField,,Low,1,1
+MigrationExperiment_BernersLee,19,Fixwe SetProperty error,,Low,1,2
+MigrationExperiment_Hopper,1,added correct mapping for Relay Commands,,Low,1,5
+MigrationExperiment_Hopper,2,removed wrong depreaction,,Low,1,1
+MigrationExperiment_Hopper,3,added missing using,,Low,1,1
+MigrationExperiment_Hopper,4,inconsitent access,,Low,1,1
+MigrationExperiment_Hopper,5,help requested was missing,,Low,1,2
+MigrationExperiment_Hopper,6,adddes missing using,,Low,1,1
+MigrationExperiment_Hopper,7,changed eventhandler to the right reference,,Low,1,1
+MigrationExperiment_Hopper,8,dixed OnHelpRequested issue,,Low,1,1
+MigrationExperiment_Hopper,9,added correct using,,Low,1,1
+MigrationExperiment_Hopper,10,inconsistent access,,Low,1,1
+MigrationExperiment_Hopper,11,inconsistent access,,Low,1,1
+MigrationExperiment_Hopper,12,added correct using,,Low,1,1
+MigrationExperiment_Hopper,13,removed wrong using,,Low,1,1
+MigrationExperiment_Hopper,14,added correct using,,Low,1,1
+MigrationExperiment_Hopper,15,inconsistent access,,Low,1,1
+MigrationExperiment_Hopper,16,added missing using,,Low,1,1
+MigrationExperiment_Hopper,17,added objektverweis,,Low,1,3
+MigrationExperiment_Hopper,18,added missing using,,Low,1,1
+MigrationExperiment_Hopper,19,added missing using,,Low,1,1
+MigrationExperiment_Hopper,20,added missing event handler,,Low,1,1
+MigrationExperiment_Hopper,21,removed wron namespace,,Low,1,1
+MigrationExperiment_Turing,1,Wrong command reference,,Medium,2,10
+MigrationExperiment_Turing,2,wrong reference of dialog fixed,,Low,1,2
+MigrationExperiment_Turing,3,double reference on Point class,,Low,1,1
+MigrationExperiment_Turing,4,Inconstient access,,Low,1,1
+MigrationExperiment_Turing,5,Fixed int conversion,,Low,1,1
+MigrationExperiment_Turing,6,inconstient access,,Low,1,1
+MigrationExperiment_Turing,7,inconstient access,,Low,1,1
+MigrationExperiment_Turing,8,inconstient access,,Low,1,1
+MigrationExperiment_Turing,9,Removed padding,,Low,1,1
+MigrationExperiment_Turing,10,fixed wrong host binding,,Low,1,3
+MigrationExperiment_Turing,11,wrong class in xaml,,Low,1,3
+MigrationExperiment_Turing,12,removed wrong maping,,Low,1,1
+MigrationExperiment_Turing,13,removed false using,,Low,1,1
+MigrationExperiment_Turing,14,added missing using,,Low,1,1
+MigrationExperiment_Turing,15,inkosistenter datenzugriff,,Low,1,2
+MigrationExperiment_Turing,16,inkonsitetner zugriff,,Low,1,1
+MigrationExperiment_Turing,17,inkonsistenter Zugriff,,Low,1,1
+MigrationExperiment_Turing,18,remove incorrect using,,Low,1,1
+MigrationExperiment_Turing,19,removed incorrect namespace,,Low,1,1
+MigrationExperiment_Turing,20,added missing using,,Low,1,1
+MigrationExperiment_Turing,21,added missing using,,Low,1,1
+MigrationExperiment_Turing,22,removed incorrect using,,Low,1,1
+MigrationExperiment_Turing,23,added missing using,,Low,1,1
+MigrationExperiment_Turing,24,removed using wrapper,,Low,1,1
+MigrationExperiment_Turing,25,incorrect using of show dialog,,Low,1,1
+MigrationExperiment_Lovelace,1,inkonistenter Datenzugriff gefixt,,Low,1,1
+MigrationExperiment_Lovelace,2,generated missing event Handler,,Low,1,1
+MigrationExperiment_Lovelace,3,added missing using,,Low,1,1
+MigrationExperiment_Lovelace,4,added missing using,,Low,1,1
+MigrationExperiment_Lovelace,5,inkonsistenter Zugriff fixed ,,Low,1,1
+MigrationExperiment_Lovelace,6,inkonsistenter Zugriff fixed,,Low,1,1
+MigrationExperiment_Lovelace,7,removed wrong namespace,,Low,1,1
+MigrationExperiment_Lovelace,8,removed wron namespace,,Low,1,1
+MigrationExperiment_Lovelace,9,added missing using,,Low,1,1
+MigrationExperiment_Lovelace,10,added missing using,,Low,1,1
+MigrationExperiment_Lovelace,11,Inconsistent parameter access fixed,,Low,1,2
+MigrationExperiment_Lovelace,12,add missing relay command,,Medium,2,5
+MigrationExperiment_Lovelace,13,Removed wrong using,,Low,1,1
+MigrationExperiment_Lovelace,14,added missing using,,Low,1,1
+MigrationExperiment_Lovelace,15,added missing using,,Low,1,1
+MigrationExperiment_Lovelace,16,RelayCommand is missing Create fixed all appearing errors,,Medium,2,10
