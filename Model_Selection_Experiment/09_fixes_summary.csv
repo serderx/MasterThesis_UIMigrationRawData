@@ -1,0 +1,11 @@
+﻿experiment_name,model_name,run_number,fix_description,priority,estimated_minutes
+ModelSelectionExperiment_gpt56terra_3,gpt56terra,3,readd intensityprofiler xaml and xaml.cs,low,1
+ModelSelectionExperiment_gpt56terra_3,gpt56terra,3,added correct using for Viewmodelbase and RelayCommand to ObjectTrackEditorViewModel,low,1
+ModelSelectionExperiment_gpt56terra_3,gpt56terra,3,remove Zugriffsmodifikator,low,1
+ModelSelectionExperiment_gpt56terra_3,gpt56terra,3,remove Zugriffsmodifikator,low,1
+ModelSelectionExperiment_gpt56terra_3,gpt56terra,3,remove Zugriffsmodifikator,low,1
+ModelSelectionExperiment_gpt56terra_3,gpt56terra,3,remove Zugriffsmodifikator,low,1
+ModelSelectionExperiment_gpt56terra_3,gpt56terra,3,remove Zugriffsmodifikator,low,1
+ModelSelectionExperiment_gpt56terra_3,gpt56terra,3,added cast,low,1
+ModelSelectionExperiment_gpt56terra_3,gpt56terra,3,removed false button assignment,low,1
+ModelSelectionExperiment_gpt56terra_3,gpt56terra,3,removed false button assignment,low,1

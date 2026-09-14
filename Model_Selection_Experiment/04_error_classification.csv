@@ -1,0 +1,15 @@
+﻿experiment_name,model_name,run_number,total_errors,error_type_missing_type,error_type_missing_member,error_type_missing_static_member,error_type_undefined_name,error_type_accessibility,error_type_type_conversion,error_type_unknown,category_codebehind,category_viewmodel,category_xaml,category_other
+ModelSelectionExperiment_claudeHaiku45_1,claudeHaiku45,1,214,32,81,3,42,4,2,50,46,63,11,94
+ModelSelectionExperiment_claudeHaiku45_2,claudeHaiku45,2,307,27,81,3,6,3,2,185,17,82,12,196
+ModelSelectionExperiment_claudeHaiku45_3,claudeHaiku45,3,198,22,81,3,38,5,2,47,49,15,39,95
+ModelSelectionExperiment_claudeOpuse48_1,claudeOpuse48,1,138,31,78,4,21,2,2,0,2,40,0,96
+ModelSelectionExperiment_claudeSonette46_1,claudeSonette46,1,121,29,22,5,25,8,1,31,17,70,1,33
+ModelSelectionExperiment_gpt56luna_1,gpt56luna,1,123,25,78,4,9,3,2,2,0,27,0,96
+ModelSelectionExperiment_gpt56luna_2,gpt56luna,2,52,28,0,0,9,1,0,14,3,19,12,18
+ModelSelectionExperiment_gpt56luna_3,gpt56luna,3,0,0,0,0,0,0,0,0,0,0,0,0
+ModelSelectionExperiment_gpt56sol_1,gpt56sol,1,145,18,78,1,10,2,2,34,6,19,2,118
+ModelSelectionExperiment_gpt56sol_2,gpt56sol,2,185,25,80,1,55,0,0,24,47,22,2,114
+ModelSelectionExperiment_gpt56sol_3,gpt56sol,3,114,17,80,1,7,2,2,5,3,17,1,93
+ModelSelectionExperiment_gpt56terra_1,gpt56terra,1,109,12,78,2,6,1,2,8,4,8,3,94
+ModelSelectionExperiment_gpt56terra_2,gpt56terra,2,117,13,80,2,14,2,0,6,8,11,4,94
+ModelSelectionExperiment_gpt56terra_3,gpt56terra,3,0,0,0,0,0,0,0,0,0,0,0,0

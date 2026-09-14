@@ -1,0 +1,16 @@
+﻿experiment_name,model_name,run_number,project,remaining_errors,xaml_errors,codebehind_errors,viewmodel_errors,total_project_errors
+ModelSelectionExperiment_claudeHaiku45_3,claudeHaiku45,3,IntensityProfiler,94,20,0,0,20
+ModelSelectionExperiment_claudeOpuse48_1,claudeOpuse48,1,TaskMonitor,0,0,0,9,9
+ModelSelectionExperiment_claudeOpuse48_1,claudeOpuse48,1,IntensityProfiler,94,0,0,2,2
+ModelSelectionExperiment_claudeSonette46_1,claudeSonette46,1,IntensityProfiler,32,1,10,24,35
+ModelSelectionExperiment_gpt56luna_1,gpt56luna,1,TaskMonitor,0,0,0,2,2
+ModelSelectionExperiment_gpt56luna_1,gpt56luna,1,IntensityProfiler,94,0,0,0,0
+ModelSelectionExperiment_gpt56luna_2,gpt56luna,2,TaskMonitor,0,2,0,0,2
+ModelSelectionExperiment_gpt56luna_2,gpt56luna,2,IntensityProfiler,18,0,1,1,2
+ModelSelectionExperiment_gpt56luna_3,gpt56luna,3,TaskMonitor,0,3,0,4,7
+ModelSelectionExperiment_gpt56luna_3,gpt56luna,3,IntensityProfiler,93,0,0,0,0
+ModelSelectionExperiment_gpt56luna_3,gpt56luna,3,ObjectTrackEditor,2,0,0,31,31
+ModelSelectionExperiment_gpt56sol_2,gpt56sol,2,IntensityProfiler,93,3,47,0,50
+ModelSelectionExperiment_gpt56sol_3,gpt56sol,3,TaskMonitor,0,0,0,0,0
+ModelSelectionExperiment_gpt56terra_2,gpt56terra,2,TaskMonitor,0,0,0,0,0
+ModelSelectionExperiment_gpt56terra_2,gpt56terra,2,ObjectTrackEditor,0,0,0,11,11

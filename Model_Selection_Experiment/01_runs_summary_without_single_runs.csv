@@ -1,0 +1,13 @@
+﻿experiment_name,model_name,run_number,cost_before,cost_after,cost_model_id,duration_analysis_sec,duration_migration_sec,duration_total_sec,total_errors,total_warnings,total_remaining,total_xaml_errors,total_codebehind_errors,total_viewmodel_errors,IntensityProfiler_remaining,IntensityProfiler_xaml,IntensityProfiler_codebehind,IntensityProfiler_viewmodel,TaskMonitor_remaining,TaskMonitor_xaml,TaskMonitor_codebehind,TaskMonitor_viewmodel,ObjectTrackEditor_remaining,ObjectTrackEditor_xaml,ObjectTrackEditor_codebehind,ObjectTrackEditor_viewmodel
+ModelSelectionExperiment_claudeHaiku45_1,claudeHaiku45,1,0.0,1.39162,bedrock/eu.anthropic.claude-haiku-4-5-20251001-v1,104,642,746,214,27,99,10,45,60,99,0,2,33,0,5,6,11,0,5,37,16
+ModelSelectionExperiment_claudeHaiku45_2,claudeHaiku45,2,1.39162,2.646351,bedrock/eu.anthropic.claude-haiku-4-5-20251001-v1,112,476,588,307,0,195,13,17,82,184,0,3,43,1,3,0,11,10,10,14,28
+ModelSelectionExperiment_claudeHaiku45_3,claudeHaiku45,3,2.646351,4.964612,bedrock/eu.anthropic.claude-haiku-4-5-20251001-v1,115,938,1053,198,1,95,39,49,15,94.0,20.0,0.0,0.0,1,1,0,11,0,18,49,4
+ModelSelectionExperiment_gpt56luna_1,gpt56luna,1,2.855488,3.528895,azure/gpt-56-luna,119,374,493,123,67,96,0,0,27,94.0,0.0,0.0,0.0,0,0.0,0.0,2,2,0,0,25
+ModelSelectionExperiment_gpt56luna_2,gpt56luna,2,3.528895,4.48001,azure/gpt-56-luna,107,684,791,52,42,18,12,3,19,18.0,0.0,1.0,1.0,0,2.0,0.0,0.0,0,10,2,18
+ModelSelectionExperiment_gpt56luna_3,gpt56luna,3,2.305275,2.855488,azure/gpt-56-luna,116,348,464,133,56,95,3,0,35,93.0,0.0,0.0,0.0,0.0,3.0,0.0,4.0,2.0,0.0,0.0,31.0
+ModelSelectionExperiment_gpt56sol_1,gpt56sol,1,0.0,5.924838,azure/gpt-56-sol,105,1092,1197,145,146,118,2,6,19,93,1,0,1,25,1,5,0,0,0,1,18
+ModelSelectionExperiment_gpt56sol_2,gpt56sol,2,5.924838,11.916414,azure/gpt-56-sol,102,998,1100,170,106,93,8,47,22,93.0,3.0,47.0,0.0,0,0,0,0,0,5,0,22
+ModelSelectionExperiment_gpt56sol_3,gpt56sol,3,11.916414,16.953914,azure/gpt-56-sol,118,787,905,114,47,93,1,3,17,93,0,0,1,0,0.0,0.0,0.0,0,1,3,16
+ModelSelectionExperiment_gpt56terra_1,gpt56terra,1,0.0,1.903513,azure/gpt-56-terra,101,669,770,109,59,94,3,4,8,94,0,0,0,0,1,0,0,0,2,4,8
+ModelSelectionExperiment_gpt56terra_2,gpt56terra,2,1.903513,3.95478,azure/gpt-56-terra,114,558,672,117,39,94,4,8,11,94,4,8,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0
+ModelSelectionExperiment_gpt56terra_3,gpt56terra,3,3.95478,5.474814,azure/gpt-56-terra,102,479,581,55,64,16,1,7,31,13,0,0,0,2,0,0,0,1,1,7,31
