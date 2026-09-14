@@ -1,0 +1,61 @@
+config,issue_type,taxonomy,count
+C1,Error,Accessibility,16
+C1,Error,C# compiler,4
+C1,Error,Missing symbol/member,9
+C1,Error,Missing type/reference,5
+C1,Error,Other (MC),1
+C1,Error,Other (XLS),2
+C1,Error,XAML/designer,11
+C1,Warning,C# compiler warning,99
+C1,Warning,Other warning,54
+C2,Error,Accessibility,12
+C2,Error,C# compiler,41
+C2,Error,Missing symbol/member,96
+C2,Error,Missing type/reference,21
+C2,Error,XAML/designer,2
+C2,Warning,C# compiler warning,206
+C2,Warning,Other warning,32
+C3,Error,Accessibility,8
+C3,Error,C# compiler,1
+C3,Error,Missing symbol/member,4
+C3,Error,Missing type/reference,9
+C3,Error,XAML/designer,2
+C3,Warning,C# compiler warning,66
+C3,Warning,Other warning,1
+C4,Error,Accessibility,16
+C4,Error,C# compiler,2
+C4,Error,MSBuild,1
+C4,Error,Missing symbol/member,15
+C4,Error,Missing type/reference,1
+C4,Error,Other (XLS),1
+C4,Error,XAML/designer,4
+C4,Warning,C# compiler warning,132
+C5,Error,Accessibility,3
+C5,Error,C# compiler,62
+C5,Error,Missing symbol/member,10
+C5,Error,Missing type/reference,9
+C5,Error,Other (MC),1
+C5,Error,XAML/designer,9
+C5,Warning,C# compiler warning,97
+C5,Warning,Other warning,87
+C6,Error,C# compiler,76
+C6,Error,Missing symbol/member,18
+C6,Error,Missing type/reference,4
+C6,Error,XAML/designer,15
+C6,Warning,C# compiler warning,116
+C6,Warning,Other warning,33
+C7,Error,C# compiler,1
+C7,Error,Missing symbol/member,5
+C7,Error,Missing type/reference,9
+C7,Error,XAML/designer,1
+C7,Warning,C# compiler warning,77
+C7,Warning,Other warning,33
+C8,Error,Accessibility,2
+C8,Error,C# compiler,6
+C8,Error,Missing symbol/member,23
+C8,Error,Missing type/reference,17
+C8,Error,Other (MC),1
+C8,Error,XAML/designer,1
+C8,Warning,C# compiler warning,86
+C8,Warning,Other warning,68
+C8,Warning,XAML/designer warning,3

@@ -1,0 +1,4 @@
+factor,level_a,level_b,success_a,failure_a,success_b,failure_b,success_rate_a,success_rate_b,odds_ratio,ci_lower,ci_upper,p_value,p_holm
+Scaffold,On,Off,0,12,1,11,0.0,8.333333333333332,0.0,0.01131898770094424,8.308556112009839,1.0,1.0
+Repair,On,Off,0,12,1,11,0.0,8.333333333333332,0.0,0.01131898770094424,8.308556112009839,1.0,1.0
+Planner,LLM,Rule,0,12,1,11,0.0,8.333333333333332,0.0,0.01131898770094424,8.308556112009839,1.0,1.0

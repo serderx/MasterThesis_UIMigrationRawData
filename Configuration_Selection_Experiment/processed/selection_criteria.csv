@@ -1,0 +1,7 @@
+metric,label,direction,weight
+openable_dialog_rate_pct,Dialog openability,max,0.25
+partial_build_rate_pct,Automatic partial build,max,0.2
+hi_count,Human interventions,min,0.1
+errors,Remaining errors,min,0.05
+cost,Execution cost,min,0.05
+visual_quality_score,Visual quality,max,0.35
